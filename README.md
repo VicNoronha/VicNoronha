@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VicNoronha
-- Student of Systems Analysis and Development currently in the first semester at UNIJORGE.
+- Student of Systems Analysis and Development.
 - 📫 vitoria.noronha@gmail.com
 
 
