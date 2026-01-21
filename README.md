@@ -1,22 +1,60 @@
-- 👋 Hi, I’m @VicNoronha
-- Student of Systems Analysis and Development.
-- 📫 vitoria.noronha@gmail.com
-- 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Vic+Noronha!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
-  </a>
-</p>
-
 <div align="center">
 
+🌸🤍🌸🤍🌸🤍🌸🤍🌸🤍🌸
+
+###  Olá, bem vindo(a) ao meu GitHub
+
+
+🌸🤍🌸🤍🌸🤍🌸🤍🌸🤍🌸
+
+</div>
+
+
+### 💗 Sobre mim
+
+Me chamo Victoria e sou estudante de Engenharia de Software(1º semestre) e Análise e Desenvolvimento de Sistemas (5º semestre) sou apaixonada por tecnologia.
+Atualmente estou estudando Java e SpringBoot, buscando construir minha base sólida em programação, lógica e boas práticas, sempre buscando evoluir tanto tecnicamente quanto profissionalmente.
+
+
+###  Tecnologias que estou estudando
+
+🌸 Linguagens: 
+Java 
+Programação Orientada a Objetos (POO)
+JavaScript
+
+
+
+🌸 Frameworks:
+ Spring Boot  (em aprendizado)
+
+
+
+🌸 Outros conhecimentos:
+ AWS Cloud Practicioner Certified
+ Git & GitHub
+ Conceitos de API REST
+ Banco de Dados 
+
+
+###  Objetivo Profissional
+
+ Meu maior objetivo no momento é conquistar uma vaga de estágio como Engenheira de Software, onde eu possa:
+Aprender com profissionais experientes  
+Colocar em prática meus conhecimentos  
+Evoluir tecnicamente em ambientes reais de desenvolvimento  
+
+
+###  Soft skills:
+
+💗 Comunicativa  
+💗 Curiosa  
+💗 Organizada  
+💗 Sempre disposta a aprender  
 
 
 
 
 
 
-<!---
-VicNoronha/VicNoronha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
