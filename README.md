@@ -47,10 +47,10 @@ Evoluir tecnicamente em ambientes reais de desenvolvimento
 
 ###  Soft skills:
 
-💗 Comunicativa  
-💗 Curiosa  
-💗 Organizada  
-💗 Sempre disposta a aprender  
+ Comunicativa  
+ Curiosa  
+ Organizada  
+ Sempre disposta a aprender  
 
 
 
