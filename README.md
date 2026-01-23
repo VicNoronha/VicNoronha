@@ -31,10 +31,10 @@ JavaScript
 
 
 🌸 Outros conhecimentos:
- AWS Cloud Practicioner Certified
- Git & GitHub
- Conceitos de API REST
- Banco de Dados 
+ AWS Cloud Practicioner Certified,
+ Git & GitHub,
+ Conceitos de API REST,
+ Banco de Dados. 
 
 
 ###  Objetivo Profissional
