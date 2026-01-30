@@ -13,7 +13,7 @@
 ### 💗 Sobre mim
 
 Me chamo Victoria e sou estudante de Engenharia de Software(1º semestre) e Análise e Desenvolvimento de Sistemas (5º semestre) sou apaixonada por tecnologia.
-Atualmente estou estudando Java e SpringBoot, buscando construir minha base sólida em programação, lógica e boas práticas, sempre buscando evoluir tanto tecnicamente quanto profissionalmente.
+Atualmente estou estudando Java e SpringBoot, buscando construir minha base sólida em programação, lógica e boas práticas.
 
 
 ###  Tecnologias que estou estudando
@@ -31,7 +31,6 @@ JavaScript
 
 🌸 Outros conhecimentos:
  AWS Cloud Practicioner Certified,
- Git & GitHub,
  Conceitos de API REST,
  Banco de Dados. 
 
