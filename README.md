@@ -20,13 +20,12 @@ Atualmente estou estudando Java e SpringBoot, buscando construir minha base sól
 
 🌸 Linguagens: 
 Java 
-Programação Orientada a Objetos (POO)
 JavaScript
 
 
 
 🌸 Frameworks:
- Spring Boot  (em aprendizado)
+ Spring Boot  (estudando)
 
 
 
@@ -36,13 +35,6 @@ JavaScript
  Conceitos de API REST,
  Banco de Dados. 
 
-
-###  Objetivo Profissional
-
- Meu maior objetivo no momento é conquistar uma vaga de estágio como Engenheira de Software, onde eu possa:
-Aprender com profissionais experientes  
-Colocar em prática meus conhecimentos  
-Evoluir tecnicamente em ambientes reais de desenvolvimento  
 
 
 ###  Soft skills:
