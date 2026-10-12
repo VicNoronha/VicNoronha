@@ -1,18 +1,8 @@
-<div align="center">
-
-🌸🤍🌸🤍🌸🤍🌸🤍🌸🤍🌸
-
-###  Olá, bem vindo(a) ao meu GitHub
-
-
-🌸🤍🌸🤍🌸🤍🌸🤍🌸🤍🌸
-
-</div>
 
 
 ### 💗 Sobre mim
 
-Me chamo Victoria e sou estudante de Engenharia de Software(1º semestre) e Análise e Desenvolvimento de Sistemas (5º semestre) sou apaixonada por tecnologia.
+Me chamo Victoria e sou estudante de Engenharia de Software(2º semestre) e Análise e Desenvolvimento de Sistemas (5º semestre) sou apaixonada por tecnologia.
 Atualmente estou estudando Java e SpringBoot, buscando construir minha base sólida em programação, lógica e boas práticas.
 
 
@@ -21,6 +11,7 @@ Atualmente estou estudando Java e SpringBoot, buscando construir minha base sól
 🌸 Linguagens: 
 Java 
 JavaScript
+C#
 
 
 
